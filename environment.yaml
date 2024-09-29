@@ -1,0 +1,13 @@
+﻿name: scda
+channels:
+  - defaults
+dependencies:
+  - python
+  - beautifulsoup4
+  - pillow
+  - requests
+  - websocket-client
+  - conda-lock
+  - pip:
+    - -r requirements.txt
+prefix: C:\Users\happyZYM\miniconda3\envs\scda
